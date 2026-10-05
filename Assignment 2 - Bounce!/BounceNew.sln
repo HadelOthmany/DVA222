@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BounceNew", "BounceNew.csproj", "{B97E3059-B4D9-4480-92D8-3144FC4D4DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97E3059-B4D9-4480-92D8-3144FC4D4DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97E3059-B4D9-4480-92D8-3144FC4D4DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97E3059-B4D9-4480-92D8-3144FC4D4DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97E3059-B4D9-4480-92D8-3144FC4D4DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03E93C41-0A89-4FD6-A39A-EA54B838FFD1}
+	EndGlobalSection
+EndGlobal
